@@ -1,1 +1,1 @@
- learn AngularJs
+学习 AngularJs 笔记
